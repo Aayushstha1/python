@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge)
 
-🚀 A brief and engaging description of your Django project.
+🚀 Ti is the basic code of DJango . It is simple and easy to understand . You may try it.
 
 ## 📌 Features
 - ✅ Feature 1
