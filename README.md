@@ -1,4 +1,4 @@
-# 🌟 Django Project Name
+# 🌟 Django  Basic Project 
 
 ![Django](https://img.shields.io/badge/Django-4.x-green?style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
